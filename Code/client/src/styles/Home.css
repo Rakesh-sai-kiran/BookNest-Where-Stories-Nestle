@@ -1,0 +1,11 @@
+.home {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  padding: 1rem;
+}
+.book-card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  text-align: center;
+}
